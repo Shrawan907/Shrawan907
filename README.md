@@ -29,8 +29,8 @@ I am Shrawan Kumar Choudhary from Rajasthan, INDIA and I love to do development 
 
 ## 💹 Github Analytics
 
-[![Shrawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrawan907)](https://shrawan907.github.io/)
-[![Shrawan's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrawan907&layout=compact&langs_count=8)]()
+[![Shrawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrawan907&layout=compact)](https://shrawan907.github.io/)
+[![Shrawan's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrawan907&layout=compact&langs_count=8)](https://shrawan907.github.io/)
 
 <hr/>
 
