@@ -1,3 +1,6 @@
+<h3 align="center">WELCOME TO MY GITHUB PROFILE</h3>
+<hr/>
+
 # Hi there 👋, I'm Shrawan Choudhary
 #### Computer Science undergrade @ MN-NIT
 
@@ -27,3 +30,9 @@ I am Shrawan Kumar Choudhary from Rajasthan, INDIA and I love to do development 
 ## 💹 Github Analytics
 
 [![Shrawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrawan907)](https://shrawan907.github.io/)
+[![Shrawan's GitHub langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrawan907&layout=compact&langs_count=8)]()
+
+<hr/>
+
+<h3 align="center">THANK YOU</h3>
+
