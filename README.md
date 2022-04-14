@@ -22,7 +22,7 @@ I am Shrawan Kumar Choudhary from Rajasthan, INDIA and I love to do development 
 
 ## 🤝 Connect with me
 
-&emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shrawan-kumar-choudhary-44ab181aa//) &emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shrawan907.github.io/)  
+&emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shrawan-kumar-choudhary-44ab181aa/) &emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shrawan907.github.io/)  
 
 &emsp; ✉️ shrawan07090@gmail.com
 
