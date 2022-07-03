@@ -2,7 +2,7 @@
 <hr/>
 
 # Hi there 👋, I'm Shrawan Choudhary
-#### Computer Science undergrade @ MN-NIT
+### Software Engineer | Computer Science graduate MN-NIT 2022
 
 I am Shrawan Kumar Choudhary from Rajasthan, INDIA and I love to do development projects. I enjoy learning languages and frameworks like Django and React, as well as work on cross-platform-applications. 
 
