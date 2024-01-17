@@ -2,28 +2,31 @@
 <hr/>
 
 # Hi there 👋, I'm Shrawan Choudhary
-### Software Engineer | Computer Science graduate MN-NIT 2022
+### Software Engineer @Airtel Digital | 1.5+ Experience | Computer Science graduate MN-NIT 2022
 
-I am Shrawan Kumar Choudhary from Rajasthan, INDIA and I love to do development projects. I enjoy learning languages and frameworks like Django and React, as well as work on cross-platform-applications. 
+Hi there! I'm Shrawan Kumar Choudhary, a dynamic software engineer with 2 years of hands-on experience in backend development. A passionate problem solver, who thrive in crafting innovative solutions and love to do development projects. I enjoy learning languages and frameworks like Springboot, Django and React, as well as working on cross-platform-applications. 
 
 
 ## ⚙️ Skills and Experties
 
 ***CS Core:*** DATA STRUCTURE / ALGORITHIM / DBMS / OS / OOP
 
-***Languages:*** C++ / PYTHON / JAVA
+***Languages:*** JAVA / C++ / Python
 
 ***WEB / MOBILE / BACKEND:***
-* ⚛️ REACT
+* 🖥️ Spring Boot
+* 🖥️ MongoDb
 * 🧑‍💻 DJANGO
+* ⚛️ REACT
 * 🖥️ HTML / CSS / JS
-* ☁️ FIREBASE / POSTGRESQL
+* ☁️ AWS / FIREBASE / POSTGRESQL
 
 
 ## 🤝 Connect with me
 
-&emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shrawan-kumar-choudhary-44ab181aa/) &emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shrawan907.github.io/)  
+&emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shrawan-kumar-choudhary-44ab181aa/) 
 
+&emsp; 🖥️ [My Portfolio Website](https://shrawan907.github.io/)  
 &emsp; ✉️ shrawan07090@gmail.com
 
 
