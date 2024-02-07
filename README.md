@@ -24,10 +24,11 @@ Hi there! I'm Shrawan Kumar Choudhary, a dynamic software engineer with 2 years 
 
 ## 🤝 Connect with me
 
-&emsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shrawan-kumar-choudhary-44ab181aa/) 
-
 &emsp; 🖥️ [My Portfolio Website](https://shrawan907.github.io/)  
+
 &emsp; ✉️ shrawan07090@gmail.com
+
+&emsp; 🖥️ [My LinkedIn Profile](https://www.linkedin.com/in/shrawan-kumar-choudhary-44ab181aa/) 
 
 
 ## 💹 Github Analytics
