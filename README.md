@@ -2,9 +2,9 @@
 <hr/>
 
 # Hi there 👋, I'm Shrawan Choudhary
-### Software Engineer @Airtel Digital | 1.5+ Experience | Computer Science graduate MN-NIT 2022
+### Senior Software Engineer @Airtel Digital | 2.5 Experience | Computer Science graduate MN-NIT 2022
 
-Hi there! I'm Shrawan Kumar Choudhary, a dynamic software engineer with 2 years of hands-on experience in backend development. A passionate problem solver, who thrive in crafting innovative solutions and love to do development projects. I enjoy learning languages and frameworks like Springboot, Django and React, as well as working on cross-platform-applications. 
+Hi there! I'm Shrawan Kumar Choudhary, a dynamic software engineer with 2.5 years of hands-on experience in backend development. A passionate problem solver, who thrive in crafting innovative solutions and love to do development projects. I enjoy learning languages and frameworks like Springboot, Django and React, as well as working on cross-platform-applications. 
 
 
 ## ⚙️ Skills and Experties
